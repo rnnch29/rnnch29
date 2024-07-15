@@ -4,10 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Web Developer
 --------------------
 
-I'm interested in developing front-end websites using ReactJS.
-
-* 🧠  I'm learning reactJS, NodeJS
-
 ### Skills
 
 
