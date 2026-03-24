@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Ronnachai Butrploeng
-
-## 💻 Software Developer
 ## 🛠 Tech Stack
-
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -30,19 +27,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
-
----
-
-## 📌 What I Do
-
-* 🚀 Build full-stack web applications
-* 🔌 Design and implement REST APIs
-* 🗄 Database design & optimization
-* 🐳 Deploy applications using Docker & Nginx
-* 🐧 Work with Linux server environments
-
----
-
-## 📫 Contact
-* 📧 Email: [ronnachai.buth@gmail.com](mailto:ronnachai.buth@gmail.com)
 
